@@ -25,7 +25,7 @@ public class BasicsPractise {
 
 		System.out.println(response.prettyPrint());
 		
-		// System.out.println("Result object" + "\t" + response);
+		System.out.println("Result object" + "\t" + response);
 
 		/*
 		 * 
